@@ -4,3 +4,5 @@ This is a demonstration repository for DSCI 100's version control lecture. We wi
 This is a second line I've added locally!
 
 This is a line I added on GitHub, but i dont have locally!
+
+This is a line I edited on Wolfgirl's branch!
